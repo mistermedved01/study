@@ -30,7 +30,7 @@ ____
 
 ## Типы аварийного восстановления:
 
-![Название скриншота 1](https://github.com/mistermedved01/study/blob/master/%D0%9E%D1%82%D0%BA%D0%B0%D0%B7%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C%20(Fault%20Tolerance)/01_Disaster%20Recovery.%20FHRP%20%D0%B8%20Keepalived/img/dr_type.jpg)
+![Название скриншота 0](https://github.com/mistermedved01/study/blob/master/%D0%9E%D1%82%D0%BA%D0%B0%D0%B7%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C_(Fault%20Tolerance)/01-Disaster_Recovery_FHRP_Keepalived/img/dr_type.jpg)
 
 **1. Резевное копирование** — самый простой тип аварийного восстановления, который подразумевает хранение данных в другом расположении или на удалённом накопителе.
 
@@ -115,7 +115,7 @@ _Примеры_: VMware Cloud Director Availability, Veeam Cloud Connect Replic
 
 - **RTO (recovery time objective)** - промежуток времени, в течение которого система может оставаться недоступной в случае аварии. **За какое время система должна восстановиться.**
 
-![Название скриншота 1](https://github.com/mistermedved01/study/blob/master/%D0%9E%D1%82%D0%BA%D0%B0%D0%B7%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C%20(Fault%20Tolerance)/01_Disaster%20Recovery.%20FHRP%20%D0%B8%20Keepalived/img/rpo_rto.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/study/blob/master/%D0%9E%D1%82%D0%BA%D0%B0%D0%B7%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C_(Fault%20Tolerance)/01-Disaster_Recovery_FHRP_Keepalived/img/rpo_rto.jpg)
 
 **Время восстановления файлов из резервного хранилища не должно превышать показатель RPO.**
 
@@ -150,7 +150,7 @@ RTO может составлять от нескольких секунд (пр
 
 **Время восстановления файлов из резервного хранилища не должно превышать показатель RPO.**
 
-![Название скриншота 2](https://github.com/mistermedved01/study/blob/master/%D0%9E%D1%82%D0%BA%D0%B0%D0%B7%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C%20(Fault%20Tolerance)/01_Disaster%20Recovery.%20FHRP%20%D0%B8%20Keepalived/img/rpo.jpg)
+![Название скриншота 2](https://github.com/mistermedved01/study/blob/master/%D0%9E%D1%82%D0%BA%D0%B0%D0%B7%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C_(Fault%20Tolerance)/01-Disaster_Recovery_FHRP_Keepalived/img/rpo.jpg)
 
 **Итоги**
 
